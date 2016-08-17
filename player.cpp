@@ -6,7 +6,6 @@
 using namespace std;
 
 #include "player.h"
-#include "memtracker.h"
 
 // Creates a new player and initiates it
 Player* CreatePlayer( string name, string type, Weapon *w, Armour *a )
